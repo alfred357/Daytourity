@@ -19,12 +19,12 @@ Aplikasi ini berkontribusi terhadap **SDG 8 (Decent Work and Economic Growth)** 
 <br>
 
 **1. Halaman Login(Mobile)**<br>
-<img src="assets/login-page-mobile.png" alt="Halaman Login(Mobile)" width="800">
+<img src="assets/login-page-mobile.png" alt="Halaman Login(Mobile)" >
 
 <br>
 
 **2. Halaman Dashboard**<br>
-<img src="assets/Home-page-mobile.png" alt="Halaman Home(Mobile)" width="800">
+<img src="assets/Home-Page-Mobile.png" alt="Halaman Home(Mobile)" >
 
 ---
 

@@ -14,7 +14,17 @@ Aplikasi ini berkontribusi terhadap **SDG 8 (Decent Work and Economic Growth)** 
 <br>
 
 **2. Halaman Dashboard**<br>
-<img src="assets/halaman-home.png" alt="Halaman Dashboard" width="800">
+<img src="assets/halaman-home.png" alt="Halaman Home" width="800">
+
+<br>
+
+**1. Halaman Login(Mobile)**<br>
+<img src="assets/login-page-mobile.png" alt="Halaman Login(Mobile)" width="800">
+
+<br>
+
+**2. Halaman Dashboard**<br>
+<img src="assets/Home-page-mobile.png" alt="Halaman Home(Mobile)" width="800">
 
 ---
 

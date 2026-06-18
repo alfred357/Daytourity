@@ -50,4 +50,5 @@ Pastikan tools berikut sudah terinstall sebelum memulai:
 ---
 
 ## Manual Guide
-Silakan baca [Panduan Instalasi dan Menjalankan Program (PDF)](Panduan%20Install%20%26%20Menjalankan%20Program.pdf)
+Silakan baca panduan berikut:
+[Panduan Instalasi dan Menjalankan Program (PDF)](Panduan%20Install%20%26%20Menjalankan%20Program.pdf)
